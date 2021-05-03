@@ -1,5 +1,5 @@
 # Vaporplay
-A web app that lets users turn songs into vaporwave
+A web app that lets users turn songs into vaporwave (i.e., control the speed of audio files)
 
 ### About this project
 - A "just for fun" project I did on my own time
